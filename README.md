@@ -1,5 +1,7 @@
 # MNIST Veri seti ile El Yazısı Rakam Tanıma Projesi
 
+![imgMNIST_Handwritten](/Usage.gif)
+
 ## Kullanım
 
 Proje için Python 3.9.6 veya üstü gerekiyor.
