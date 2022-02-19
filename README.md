@@ -4,9 +4,9 @@
 
 ## Kullanım
 
-Proje için Python 3.9.6 veya üstü gerekiyor.
+Python 3.9.6 veya üstü gerekiyor.
 
-1. Github'daki Repoyu ```git clone``` komutunu kullanarak indirin.
+1. Repoyu ```git clone``` komutunu kullanarak indirin.
 2. İndirdiğiniz proje klasöründe CLI açın.
 3. pipenv yoksa, onu yüklemeniz gerekir (Komut: ```pip install pipenv```).
 4. ```python -m pipenv install--python 3.9.6``` (Başka bir Python sürümü kullanıyorsanız buraya onu yazın)
