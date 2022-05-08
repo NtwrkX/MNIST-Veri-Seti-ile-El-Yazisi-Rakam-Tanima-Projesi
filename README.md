@@ -1,4 +1,4 @@
-# MNIST Veri seti ile El Yazısı Rakam Tanıma Projesi
+# MNIST Veri Seti ile El Yazısı Rakam Tanıma Projesi
 
 ![imgMNIST_Handwritten](/Usage.gif)
 
@@ -14,4 +14,4 @@ Python 3.9.6 veya üstü gerekiyor.
 6. ```python Ana_Rutin.py```
 7. Eğlence :)
 
-[Daha Fazla Bilgi için Blog Sayfama Bakabilirsiniz.](https://computingvalley.blogspot.com/2022/02/mnist-veri-seti-ile-el-yazs-rakam-tanma.html)
+[Daha Fazla Bilgi için Blog Sayfama Bakabilirsiniz.](#)
