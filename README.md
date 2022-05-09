@@ -12,6 +12,5 @@ Python 3.9.6 veya üstü gerekiyor.
 4. ```python -m pipenv install--python 3.9.6``` (Başka bir Python sürümü kullanıyorsanız buraya onu yazın)
 5. ```pipenv shell```
 6. ```python Ana_Rutin.py```
-7. Eğlence :)
 
-[Daha Fazla Bilgi için Blog Sayfama Bakabilirsiniz.](#)
+[Daha Fazla Bilgi için Blog Sayfama Bakabilirsiniz.](https://www.networkous.com/2022/05/mnist-veriseti-el-yazisi-rakam-tanima.html)
