@@ -13,4 +13,4 @@ Python 3.9.6 veya üstü gerekiyor.
 5. ```pipenv shell```
 6. ```python Ana_Rutin.py```
 
-[Daha Fazla Bilgi için Blog Sayfama Bakabilirsiniz.](https://www.networkous.com/2022/05/mnist-veriseti-el-yazisi-rakam-tanima.html)
+[Daha Fazla Bilgi için Blog Sayfama Bakabilirsiniz.](https://www.networkous.com/2022/05/mnist-veriseti-el-yazisi-rakam-tanima-projesi.html)
